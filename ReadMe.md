@@ -1,7 +1,5 @@
 # Embedded Systems Workshop at RGCET
-
-A comprehensive 4-day hands-on workshop on **Embedded Systems** that I organized and conducted at **Rajiv Gandhi College of Engineering and Technology**. This workshop provided practical exposure to embedded system fundamentals using **Raspberry Pi Pico** and **MicroPython**, guiding participants from basic concepts to complete project implementation.
-
+This repository documents the comprehensive 4-day Embedded Systems Workshop that I organized and conducted at **Rajiv Gandhi College of Engineering and Technology**. The workshop provided hands-on, practical training in embedded systems development using Raspberry Pi Pico and MicroPython, taking students from foundational concepts to complete project implementation.
 ## 🛠 Workshop Highlights
 
 - **Duration:** 4 Days
@@ -102,3 +100,4 @@ A comprehensive 4-day hands-on workshop on **Embedded Systems** that I organized
 - **Confidence:** Participants gained confidence in system design and troubleshooting
 
 This repository contains the complete workshop plan, resources, and learning materials used during the 4-day session. The workshop successfully bridged theoretical knowledge with practical implementation, preparing students for real-world embedded system challenges.
+
