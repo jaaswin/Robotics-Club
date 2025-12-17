@@ -12,33 +12,88 @@ A comprehensive 4-day hands-on workshop on **Embedded Systems** that I organized
 
 ## 📚 What Participants Learned
 
-### Day 1 – Foundations
-- Embedded systems fundamentals and applications
-- Microcontroller vs. microprocessor differences
-- Raspberry Pi Pico hardware overview and setup
-- MicroPython installation and Thonny IDE configuration
-- First program: LED blinking with GPIO control
 
-### Day 2 – Digital & Analog Interfacing
-- Digital input/output with buttons and switches
-- LED patterns and buzzer control
-- Analog value reading from joystick and potentiometer
-- PWM (Pulse Width Modulation) concepts
-- LED dimming using PWM
+## Day 1 – Foundations of Embedded Systems
 
-### Day 3 – Displays & Sensors
-- Joystick interfacing with RGB LEDs
-- Seven-segment display working principle and interfacing
-- LCD display commands and data visualization
-- Sensor interfacing concepts (distance, light, temperature)
-- Real-time data monitoring projects
+### Topics Covered:
+- **Introduction to Embedded Systems**
+- **Microcontroller and Microprocessor**
+  - Basic concepts and differences
+- **Raspberry Pi Pico**
+  - RP2040 overview
+  - Hardware features
+  - Pinout and specifications
+  - Applications
+- **Wokwi Simulation**
+  - Introduction to online simulation
+  - Simulating Raspberry Pi Pico projects
+- **Understanding GPIO Pins**
+  - GPIO input and output
+  - Pin mapping and pin numbering
+- **Installing MicroPython**
+  - Firmware installation
+  - Setting up Thonny IDE
+- **First Program**
+  - LED blink using MicroPython
+---
 
-### Day 4 – Mini Project Development
-- Embedded system project design methodology
-- Problem statement definition and block diagram creation
-- Complete project implementation
-- Testing, debugging, and optimization techniques
-- Final project demonstrations
+## Day 2 – Digital & Analog Interfacing
+
+### Topics Covered:
+- **Digital Input Concepts**
+  - Push buttons
+  - Switches
+- **Digital Output Control**
+  - LED patterns
+  - Buzzer control
+- **Mini Task**
+  - Button-controlled LED / buzzer
+- **Analog Input and Output Devices**
+  - Reading Analog Values
+    - Joystick
+    - Potentiometer
+  - **PWM (Pulse Width Modulation) Concept**
+    - LED Dimming
+    - Using potentiometer and PWM
+
+---
+
+## Day 3 – Displays, Sensors & Interfacing
+
+### Topics Covered:
+- **Joystick Interfacing with RGB LEDs**
+- **Seven Segment Display**
+  - Working principle
+  - Interfacing with Pico
+- **LCD Display**
+  - Basic commands
+  - Displaying text and values
+- **Sensors & Communication**
+  - Overview of commonly used sensors
+  - Sensor interfacing concepts
+- **Sensor-Based Mini Projects**
+  - Distance measurement
+  - Light or temperature monitoring
+
+---
+
+## Day 4 – Mini Project Development
+
+### Topics Covered:
+- **Applying Embedded System Knowledge**
+- **Overview of Embedded Project Design**
+  - Project Planning
+    - Problem statement
+    - Block diagram
+    - Flowchart
+- **Mini Project Implementation**
+  - Sensor-based or display-based projects
+  - Testing and Debugging
+  - Optimization Techniques
+- **Project Demonstration**
+  - Feedback and Discussion
+
+---
 
 ## 🎯 Outcomes Achieved
 - **Practical Skills:** Hands-on experience with embedded hardware and programming
